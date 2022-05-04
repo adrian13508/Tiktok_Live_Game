@@ -1,0 +1,24 @@
+Metadata-Version: 2.1
+Name: protobuf3-to-dict
+Version: 0.1.5
+Summary: Ben Hodgson: A teeny Python library for creating Python dicts from protocol buffers and the reverse. Useful as an intermediate step before serialisation (e.g. to JSON). Kapor: upgrade it to PB3 and PY3, rename it to protobuf3-to-dict
+Home-page: https://github.com/kaporzhu/protobuf-to-dict
+Author: Kapor Zhu
+Author-email: kapor.zhu@gmail.com
+License: Public Domain
+Keywords: protobuf,json,dict
+Platform: UNKNOWN
+Classifier: Programming Language :: Python
+Classifier: Programming Language :: Python :: 2.7
+Classifier: Programming Language :: Python :: 3
+Classifier: Programming Language :: Python :: 3.5
+Classifier: Development Status :: 4 - Beta
+Classifier: Intended Audience :: Developers
+Classifier: License :: Public Domain
+Classifier: Operating System :: OS Independent
+Classifier: Topic :: Software Development :: Libraries :: Python Modules
+Requires-Dist: protobuf (>=2.3.0)
+Requires-Dist: six
+
+UNKNOWN
+
